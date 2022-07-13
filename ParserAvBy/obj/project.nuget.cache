@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrUcpfgFDudjkEW2kzONGfiseOiaHoMKDu8aaXHOb7ONoNdVI9YqRJ0Cf4oxydhd8V4eKx/qNQ0uag8lf+/3IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\MVP\\ParserAvBy\\ParserAvBy\\ParserAvBy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
